@@ -1,5 +1,5 @@
   <div>
-    <h3>Hi 👋, I'm Vladimir Semenov</h3>
+    <h3>Hi, I'm Vladimir Semenov</h3>
     <hr />
     <div>
       <ul>
