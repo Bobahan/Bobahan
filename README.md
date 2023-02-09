@@ -9,6 +9,7 @@
         How to reach me:
         <ul>
           <li> <a href="https://twitter.com/mtfbwy04">Twitter</a></li>
+           <li><a href = "mailto: bobahansem98@icloud.com">Email</a></li>
         </ul>
       </li>
     </ul>
