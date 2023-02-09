@@ -2,7 +2,7 @@
 <hr/>
   <div>
     <ul>
-      <li>Hi, i'm Vladimir</li>
+      <li>Frontend developer</li>
       <li>i'm interested in JavaScript, React, Redux, TypeScript, HTML, CSS, NodeJS, Express </li>
       <li>i'm looking for a job </li>
       <li>
