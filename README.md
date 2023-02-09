@@ -1,6 +1,5 @@
-<h3>Vladimir Semenov is a frontend developer</h3>
+<h3>Hi 👋, I'm Vladimir Semenov</h3>
 <hr/>
-
   <div>
     <ul>
       <li>Hi, i'm Vladimir</li>
