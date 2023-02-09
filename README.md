@@ -5,7 +5,7 @@
       <ul>
         <li>🌐 Frontend developer</li>
         <li>
-          👀 I'm interested in JavaScript, React, Redux, TypeScript, HTML, CSS, NodeJS, Express{' '}
+          👀 I'm interested in JavaScript, React, Redux, TypeScript, HTML, CSS, NodeJS, Express
         </li>
         <li>🔍 i'm looking for a job </li>
         <li>
