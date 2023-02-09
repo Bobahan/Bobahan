@@ -2,14 +2,14 @@
 <hr/>
   <div>
     <ul>
-      <li>Frontend developer</li>
-      <li>i'm interested in JavaScript, React, Redux, TypeScript, HTML, CSS, NodeJS, Express </li>
-      <li>i'm looking for a job </li>
+      <li>🌐 Frontend developer</li>
+      <li>👀 I'm interested in JavaScript, React, Redux, TypeScript, HTML, CSS, NodeJS, Express </li>
+      <li>🔍 i'm looking for a job </li>
       <li>
         How to reach me:
-        <li>
-          <a href="https://twitter.com/mtfbwy04">Twitter</a>
-        </li>
+        <ul>
+          <li> <a href="https://twitter.com/mtfbwy04">Twitter</a></li>
+        </ul>
       </li>
     </ul>
   </div>;
