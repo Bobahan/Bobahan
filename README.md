@@ -5,7 +5,7 @@
       <ul>
         <li>🌐 Frontend developer</li>
         <li>
-          👀 I'm interested in JavaScript, HTML, CSS(SCSS, styled-components), React, Redux/Toolkit/Saga, TypeScript, NodeJS, MongoDB
+          👀 I'm interested in JavaScript, HTML, CSS(SCSS, styled-components), React, Redux/Toolkit/Saga, TypeScript, NodeJS
         </li>
         <li>🔍 I'm looking for a job </li>
         <li>
