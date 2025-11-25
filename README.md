@@ -5,7 +5,7 @@
       <ul>
         <li>🌐 Frontend developer</li>
         <li>
-          👀 I'm interested in JavaScript, HTML, CSS(SCSS, styled-components), React, Redux/Toolkit/Saga, TypeScript, NodeJS
+          👀 I'm interested in JavaScript, Nodejs, Golang
         </li>
         <li>
           📫 How to reach me:
